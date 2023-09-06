@@ -89,8 +89,8 @@ This project has no LICENSE
 
 ## Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
+- **Author**: Otuoniyo UfuomaOghene Humphery
+- **Email**: humpheryufuoma@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/humpheryotu/)
 
 ---
